@@ -1,0 +1,57 @@
+body{
+    background-color: grey;
+}
+
+
+
+.qwer {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+    height:15em;
+    background-image: url('discord.jpg') ;
+}
+.fr{
+    text-align: center;
+    font-variant-position:normal;
+}
+.kbs{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    height: 780px;
+    background-color: rgb(253, 252, 252);
+    text-indent:2em;
+}
+.tab{
+    text-align: left;
+    border: black ridge;
+    width: 250px;
+}
+.text{
+    text-align:left;
+    width: 670px;
+    float: right;
+}
+.texts{
+    text-align:left;
+    width: 670px;
+    float: right;
+}
+.textss{
+    text-align:left;
+    width: 670px;
+    float: right;
+}
+.tabs{
+    text-align: left;
+    border: black ridge;
+    width: 250px;
+}
+.footer{
+        text-decoration: overline;
+        text-align:right;
+        width: 10000px;
+}
